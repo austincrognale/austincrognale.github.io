@@ -1,0 +1,35 @@
+h1 {
+    color:black;font-size: 150px;
+    font-weight: 2000;
+    text-align: center;
+
+}
+
+body {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(31,171,141,1) 100%);
+
+}
+
+.github {
+    position: absolute;
+    top: 0; bottom: 0; left: 0; right: 0;
+    margin: auto;
+    width: 200px;
+    height: auto;
+    width:  125px;
+    height: auto;
+    padding-right: auto;
+}
+
+.twitter {
+    position: absolute;
+    top: 0; bottom: 0; left: 0; right: 0;
+    margin: auto;
+    width: 200px;
+    height: auto;
+    width:  125px;
+    height: auto;
+    padding-top: 400px;
+}
+
